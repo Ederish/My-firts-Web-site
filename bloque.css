@@ -1,0 +1,119 @@
+body{
+	background-image:url(imagenes/fondo.jpg);
+}
+
+nav a{
+    text-decoration:none;
+    color:inherit;
+    font-size:14px;
+    } 
+    nav li{
+    display:inline-block;
+    width:20%;
+    padding:5px 10px;
+    background-color:#000;
+    border:1px solid #fff;
+    text-align:center;
+    color:#fff;
+    }
+    nav li:hover{
+    background-color:#fff;
+    color:#000;
+    }  
+
+*{margin:0;padding:0;box-sizing:border-box;font-size:0;}
+
+nav a{
+    text-decoration:none;
+    color:inherit;
+    font-size:14px;
+    } 
+    nav li{
+    display:inline-block;
+    width:20%;
+    padding:5px 10px;
+    background-color:#000;
+    border:1px solid #fff;
+    text-align:center;
+    color:#fff;
+    }
+    nav li:hover{
+    background-color:#fff;
+    color:#000;
+    }
+ h1 {
+    background-color:#572364;
+    color:#fff;
+    font-size:5vw;
+    margin-top:10%;
+    margin-left:4%;
+    margin-right:4%;
+    margin-bottom:0%;
+    text-align:center;
+ }
+
+.imgen{
+    width:
+}
+.recent-news-container{
+    padding: 2rem;
+    background-color:#fff;
+    text-align: center;
+    margin-left:4%;
+    margin-right:4%;
+    margin-top:-10%;
+}
+.recent-newss-heading{
+    text-transform: uppercase;
+    font-size: 1%;
+    color: #fff;
+}
+.border-underline-container{
+    border: 3px solid #000;
+    background-color:#cccccc;
+    margin-top: 1rem;
+    margin:10%;
+
+}
+.border-underline-container p{
+    font-size:23px;
+    color:#000;
+   }
+.border-underline-container h2{
+    font-size:30px;
+    color:#000;
+    margin-bottom:10%;
+   }
+
+.main-new-releases-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+nav a{
+    text-decoration:none;
+    color:inherit;
+    font-size:14px;
+    } 
+
+.footer-conteiner{
+    background: #6214a8;
+    margin-top: 10%;
+    width:  100%;
+    height: 50% ; 
+     
+}
+.footer-conteiner button{
+font-size:7vw;
+width:20%;
+background-color:#6214a8;
+color:#fff;
+}
+
+.footer-conteiner button hover{
+font-size:7vw;
+width:20%;
+background-color:#fff;
+color:#6214a8;
+}
